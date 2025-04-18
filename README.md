@@ -24,6 +24,8 @@
 A file will be saved as:  
 `C:\Users\USERNAME\Desktop\USERNAME.txt`
 
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
 
 # YutaCode 🧑‍💻
