@@ -25,7 +25,10 @@ A file will be saved as:
 `C:\Users\USERNAME\Desktop\USERNAME.txt`
 
 ## License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).  
+You are free to use, share, and adapt the code for non-commercial purposes.  
+See the full license [here](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+
 
 
 # YutaCode 🧑‍💻
