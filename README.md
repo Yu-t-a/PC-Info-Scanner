@@ -45,7 +45,7 @@ If you enjoy this project and want to support my efforts, you can "Buy Me a Coff
 
 If you're in Thailand, feel free to scan the PromptPay QR code below:
 
-<img src="https://raw.githubusercontent.com/your-repo/assets/promptpay.png" width="200" alt="PromptPay QR Code" />
+<img src="https://raw.githubusercontent.com/Yu-t-a/PC-Info-Scanner/main/assets/promptpay.png" width="200" alt="PromptPay QR Code" />
 
 ---
 
