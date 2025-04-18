@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Yu-t-a/PC-Info-Scanner/main/assets/1968.png" width="200" alt="Code" />
+
 # 🖥️ PC Info Scanner
 
 **PC Info Scanner** is a lightweight `.bat` script designed to collect detailed hardware and system information from Windows machines. Perfect for IT departments performing system audits or asset inventory tasks.
