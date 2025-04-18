@@ -46,9 +46,7 @@ If you enjoy this project and want to support my efforts, you can "Buy Me a Coff
 
 ---
 
-## 🇹🇭 Donate via PromptPay (For Thai Supporters)
-
-If you're in Thailand, feel free to scan the PromptPay QR code below:
+## Donate via QR 
 
 <img src="https://raw.githubusercontent.com/Yu-t-a/PC-Info-Scanner/main/assets/promptpay.png" width="200" alt="PromptPay QR Code" />
 
